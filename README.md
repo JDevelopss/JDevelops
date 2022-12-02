@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-My name is Jose and I am a self-taught Full Stack Engineer, I really enjoy frontend development and been enjoying the journey of learning as much as I possibly can such as React to help broaden my skills set in this area. I have also picked up a bit of interest in backend development and will be looking to begin my journey in the field on my free time. I am also looking to expand to a content creator as a to help others and create exposure for myself.
+My name is Jose and I am an aspiring Software Engineer, I really enjoy frontend development and been enjoying the journey of learning as much as I possibly can such as React to help broaden my skills set in this area. I have also picked up a bit of interest in backend development and will be looking to begin my journey in the field on my free time. I am also looking to expand to a content creator as a to help others and create exposure for myself.
 
 * 🌍  I'm based in Dallas, Tx
 * ✉️  You can contact me at [joseprz340@gmail.com](mailto:joseprz340@gmail.com)
